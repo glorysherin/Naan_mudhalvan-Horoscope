@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/daily-horoscope/static/css/main.3e6f47a7.css",
+    "main.js": "/daily-horoscope/static/js/main.939ee79a.js",
+    "static/media/sky.png": "/daily-horoscope/static/media/sky.0b5364987411cdc11cda.png",
+    "static/media/leo.png": "/daily-horoscope/static/media/leo.a4ee9dcd626d87e9f4d9.png",
+    "static/media/gemini.png": "/daily-horoscope/static/media/gemini.a20fb4b53a8430de3a6d.png",
+    "static/media/pisces.png": "/daily-horoscope/static/media/pisces.573b9f8e75218acbf486.png",
+    "static/media/aquarius.png": "/daily-horoscope/static/media/aquarius.6999cbbd7d98a96dfdc4.png",
+    "static/media/capricorn.png": "/daily-horoscope/static/media/capricorn.f58645d0f1a04087dcad.png",
+    "static/media/virgo.png": "/daily-horoscope/static/media/virgo.f4404ae4fdbacefeaddf.png",
+    "static/media/aries.png": "/daily-horoscope/static/media/aries.eb2fbd602ab0ecbcf121.png",
+    "static/media/cancer.png": "/daily-horoscope/static/media/cancer.d26a7cf225eb39dd3b06.png",
+    "static/media/libra.png": "/daily-horoscope/static/media/libra.13546ae445d931711c6b.png",
+    "static/media/scorpio.png": "/daily-horoscope/static/media/scorpio.b877c07e4544a9eae1b4.png",
+    "static/media/taurus.png": "/daily-horoscope/static/media/taurus.9fbf8773ad146cfef3c4.png",
+    "static/media/sagittarius.png": "/daily-horoscope/static/media/sagittarius.391b215974f934503e0e.png",
+    "static/media/aquarius-stars.png": "/daily-horoscope/static/media/aquarius-stars.4c32e438adb14b46d4a3.png",
+    "static/media/virgo-stars.png": "/daily-horoscope/static/media/virgo-stars.e307aef6f28e88c18763.png",
+    "static/media/sagittarius-stars.png": "/daily-horoscope/static/media/sagittarius-stars.595988542ea1a61a07b5.png",
+    "static/media/scorpio-stars.png": "/daily-horoscope/static/media/scorpio-stars.c1c042187b3a8977345b.png",
+    "static/media/pisces-stars.png": "/daily-horoscope/static/media/pisces-stars.fb3cb6fd25aad9846e3c.png",
+    "static/media/leo-stars.png": "/daily-horoscope/static/media/leo-stars.2f2033cd906fdf06aca8.png",
+    "static/media/capricorn-stars.png": "/daily-horoscope/static/media/capricorn-stars.ce02ba9998f2aca7399c.png",
+    "static/media/taurus-stars.png": "/daily-horoscope/static/media/taurus-stars.9a239eefc531facff7b0.png",
+    "static/media/gemini-stars.png": "/daily-horoscope/static/media/gemini-stars.df1160d277f69c18715b.png",
+    "static/media/libra-stars.png": "/daily-horoscope/static/media/libra-stars.2d2fa2e3612a4c55fe7f.png",
+    "static/media/aries-stars.png": "/daily-horoscope/static/media/aries-stars.b8d41a3731a851e856c3.png",
+    "static/media/cancer-stars.png": "/daily-horoscope/static/media/cancer-stars.367cb112c43ce327f52b.png",
+    "index.html": "/daily-horoscope/index.html",
+    "main.3e6f47a7.css.map": "/daily-horoscope/static/css/main.3e6f47a7.css.map",
+    "main.939ee79a.js.map": "/daily-horoscope/static/js/main.939ee79a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e6f47a7.css",
+    "static/js/main.939ee79a.js"
+  ]
+}
